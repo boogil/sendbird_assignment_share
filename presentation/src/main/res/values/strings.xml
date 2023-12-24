@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sendbird</string>
+    <string name="page_title">current page: %s</string>
+    <string name="search_view_hint">검색어를 입력하세요</string>
+    <string name="content_type_description">type: %s</string>
+    <string name="authors_publisher_language_pages_year_rating"><![CDATA[<b>authors</b>: %1$s | <b>publisher</b>: %2$s | <b>language</b>: %3$s | <b>pages</b>: %4$s | <b>year</b>: %5$s | <b>rating</b>: %6$s | <b>price</b>:%7$s | <b>url</b>:%8$s]]></string>
+</resources>
